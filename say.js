@@ -5,3 +5,5 @@ export function sayHi(user){
 function (user) {
 
 }
+const arrow = () = > 9 - 3 ;
+arrow();
